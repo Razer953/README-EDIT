@@ -1,5 +1,5 @@
 # Compiled Lua sources
-luac.out
+luactome
 
 # luarocks build files
 *.src.rock
@@ -13,7 +13,7 @@ luac.out
 *.obj
 *.elf
 
-# Precompiled Headers
+# Precompiled Header
 *.gch
 *.pch
 
@@ -38,4 +38,4 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
+*34-$
